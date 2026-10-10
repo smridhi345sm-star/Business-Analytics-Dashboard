@@ -81,3 +81,7 @@ Smridhi Mandela
 Data Analyst | Excel | SQL | Power BI
 
 https://github.com/smridhi345sm-star
+
+### Dashboard Preview
+
+[Business Analytics Dashboard Preview](dashboard-preview.png)
